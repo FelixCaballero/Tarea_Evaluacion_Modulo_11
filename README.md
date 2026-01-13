@@ -9,6 +9,7 @@ El proyecto abarca todo el proceso: desde la generación del JAR ejecutable hast
 
 Java JDK, JavaFX, Maven, Maven Shade Plugin, Launch4j, Inno Setup
 
+```
 📂 Estructura del repositorio
 📁 proyecto/
 ├── 📁 Tarea_Evaluacion_Modulo_11/
@@ -21,6 +22,7 @@ Java JDK, JavaFX, Maven, Maven Shade Plugin, Launch4j, Inno Setup
 ├──  instalador.exe/
 ├──  exeinstaller.iss/
 └── README.md
+```
 
 🔄 Proceso de desarrollo y distribución
 1️⃣ Configuración del proyecto Maven
