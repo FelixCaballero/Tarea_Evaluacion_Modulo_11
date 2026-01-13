@@ -7,33 +7,19 @@ El proyecto abarca todo el proceso: desde la generación del JAR ejecutable hast
 
 🛠️ Tecnologías y herramientas utilizadas
 
-Java JDK
-
-JavaFX
-
-Maven
-
-Maven Shade Plugin
-
-Launch4j
-
-Inno Setup
-
-Windows
+Java JDK, JavaFX, Maven, Maven Shade Plugin, Launch4j, Inno Setup
 
 📂 Estructura del repositorio
 📁 proyecto/
-├── 📁 jar/
-│   └── aplicacion.jar
-├── 📁 exe/
-│   └── aplicacion.exe
-├── 📁 installer/
-│   └── instalador.exe
-├── 📁 jre/
-│   └── (JRE incluido)
-├── 📁 resources/
-│   └── iconos y recursos
-├── pom.xml
+├── 📁 Tarea_Evaluacion_Modulo_11/
+│   └── icon.ico
+│   └── config.xml
+│   └── 📁 jre/
+├──  Tarea Evaulación Módulo 11 Felix Cabllero Peña.pdf/
+├──  TrucoTrato-1.0-SNAPSHOT.jar/
+├──  TrucoTrato.exe/
+├──  instalador.exe/
+├──  exeinstaller.iss/
 └── README.md
 
 🔄 Proceso de desarrollo y distribución
